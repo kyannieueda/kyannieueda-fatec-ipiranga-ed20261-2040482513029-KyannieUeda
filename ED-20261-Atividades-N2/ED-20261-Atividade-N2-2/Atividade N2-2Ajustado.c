@@ -1,3 +1,13 @@
+/*------------------------------------------------------------------*/
+/* FATEC-Ipiranga                                                   */
+/* ADS - Estrutura de Dados                                         */
+/* Id da Atividade: N2-2                                            */
+/* Objetivo: Calcular altura e fator de balanceamento em árvore AVL */               
+/*                                                                  */
+/* Autor: Kyannie Risame Ueda da Mata                               */
+/* Data: 12/05/2026                                                 */
+/*------------------------------------------------------------------*/
+
 #include <stdio.h>
 #include <stdlib.h>
  
